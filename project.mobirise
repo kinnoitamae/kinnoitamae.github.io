@@ -723,7 +723,7 @@
                 "title": "IDEAL MEAL",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "asfdasdfsdf",
+                "text": "An adorable outdoor game about making a <b>GIANT</b> bowl of ramen!",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"index.html#form3-2\" data-toolbar=\"-mbrBtnMove\">FOLLOW</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" href=\"index.html#content4-6\" data-toolbar=\"-mbrBtnMove\">NEWS</a>"
               }
             ]
